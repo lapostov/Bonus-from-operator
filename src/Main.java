@@ -1,4 +1,4 @@
-public class operator {
+public class main {
 
     public static void main(String[] args) {
         int amount = 1100;
